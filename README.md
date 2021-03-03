@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </p>
 
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=JuanesLamilla&count_private=true&show_icons=true&theme=radical)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=JuanesLamilla&count_private=true&bg_color=60,CB218E,6617CB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=TRUE)
 
 <h3>Reach Me</h3>
 <p>
