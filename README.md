@@ -54,7 +54,9 @@ Here are some ideas to get you started:
 
 <h3>Reach Me</h3>
 <p>
-  </a> <a href="https://www.linkedin.com/in/juanlamilla/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  I'm always happy to talk with like-minded people, feel free to connect with me through LinkedIn and/or shoot me an email!
+  
+ <a href="https://www.linkedin.com/in/juanlamilla/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
   <a href="mailto:juan.e.lamilla@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
