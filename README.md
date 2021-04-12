@@ -34,6 +34,7 @@
   <img alt="Latex" src="https://img.shields.io/badge/-Latex-050505?style=flat-square&logo=Latex&logoColor=white" />
 </p>
 
+<h3>Github Stats</h3>
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=JuanesLamilla&count_private=true&theme=radical&show_icons=TRUE)
 
