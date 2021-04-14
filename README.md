@@ -1,5 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1612948491/12491/waveboi.gif?1612948491" width="30"/> Hi there!</h1>
 
+<p align="right">
+  <a href="#">
+      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JuanesLamilla&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
+
 <p>Welcome to my page! </br> I'm Juan, a computer science and mathematics student from <img src="https://www.flaticon.com/svg/vstatic/svg/197/197575.svg?token=exp=1618003581~hmac=7550f165d99041cb81ef72e906867c23" width="13"/> <b>Bogotá, Colombia</b>, currently studying at the <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png" width="13"/> <b> University of Toronto</b> in <img src="https://www.flaticon.com/svg/vstatic/svg/197/197430.svg?token=exp=1618003581~hmac=ad8c91983ff84036dc24cc9235514ba9" width="13"/> <b>Toronto, Canada</b>. </p>
 
 <p>
