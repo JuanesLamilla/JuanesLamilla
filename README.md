@@ -11,8 +11,15 @@
 <p> I'm Juan, a computer science and mathematics student from <img src="https://www.flaticon.com/svg/vstatic/svg/197/197575.svg?token=exp=1618003581~hmac=7550f165d99041cb81ef72e906867c23" width="13"/> <b>Bogotá, Colombia</b>, currently studying at the <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png" width="13"/> <b> University of Toronto</b> in <img src="https://www.flaticon.com/svg/vstatic/svg/197/197430.svg?token=exp=1618003581~hmac=ad8c91983ff84036dc24cc9235514ba9" width="13"/> <b>Toronto, Canada</b>. </p>
 
 <p>
+  
+  
 - 🔭 I’m currently working on an Android/iOS app to help connect university students. (coming soon)</br>
-- 🌱 I’m currently taking a <a href="https://online-learning.harvard.edu/series/professional-certificate-data-science" target="_blank">Professional Certification in Data Science</a> from <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Harvard_shield_wreath.svg/1200px-Harvard_shield_wreath.svg.png" width="13"/> <b>Harvard University</b>. 
+
+
+- 🌱 I’m currently taking a <a href="https://online-learning.harvard.edu/series/professional-certificate-data-science" target="_blank">Professional Certification in Data Science</a> from <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Harvard_shield_wreath.svg/1200px-Harvard_shield_wreath.svg.png" width="13"/> <b>Harvard University</b>.
+
+
+- 🏫 I'm currently a section leader for <img src="https://web.stanford.edu/group/webdev/identity/public/img/block-s-2color.png" width="13"/> <b>Stanford University's</b> Code in Place program, teaching an introductory python programming course.
 </p>
 
 <h3>Languages</h3>
