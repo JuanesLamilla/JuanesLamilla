@@ -8,7 +8,7 @@
 
 <p align="center"> Welcome to my page! </p>
 
-<p> I'm Juan, a computer science and mathematics student from <img src="https://www.flaticon.com/svg/vstatic/svg/197/197575.svg?token=exp=1620227785~hmac=405d2fb828c0b459a027f03c2a9c3b3b" width="13"/> <b>Bogotá, Colombia</b>, currently studying at the <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png" width="13"/> <b> University of Toronto</b> in <img src="https://www.flaticon.com/svg/vstatic/svg/197/197430.svg?token=exp=1618500705~hmac=9ec9af8d684861f339aad2964e4f1d36" width="13"/> <b>Toronto, Canada</b>. </p>
+<p> I'm Juan, a computer science and mathematics student from <img src="https://www.flaticon.com/svg/vstatic/svg/197/197575.svg?token=exp=1620227785~hmac=405d2fb828c0b459a027f03c2a9c3b3b" width="13"/> <b>Bogotá, Colombia</b>, currently studying at the <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png" width="13"/> <b> University of Toronto</b> in <img src="https://www.flaticon.com/svg/vstatic/svg/197/197430.svg?token=exp=1620612494~hmac=3aef64a9131cf11a67a0ba2e489eeef5" width="13"/> <b>Toronto, Canada</b>. </p>
 
 <p>
   
