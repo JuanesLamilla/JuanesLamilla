@@ -8,18 +8,18 @@
 
 <p align="center"> Welcome to my page! </p>
 
-<p> I'm Juanes, an urban data science student from <img src="https://www.flaticon.com/svg/vstatic/svg/197/197575.svg?token=exp=1620227785~hmac=405d2fb828c0b459a027f03c2a9c3b3b" width="13"/> <b>Bogotá, Colombia</b>, currently studying at the <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png" width="13"/> <b> University of Toronto</b> in <img src="https://www.flaticon.com/svg/vstatic/svg/197/197430.svg?token=exp=1620612494~hmac=3aef64a9131cf11a67a0ba2e489eeef5" width="13"/> <b>Toronto, Canada</b>. </p>
+<p> I'm Juanes, a data science student from <b>Bogotá, Colombia</b>, with a degree in GIS from the <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png" width="13"/> <b>University of Toronto</b> in <b>Toronto, Canada</b>, and soon to have a MSc. in Urban Spatial Analytics from the <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="15"/> <b>University College of London</b> in <b>London, UK</b>.</p>
 
 <p>
   
   
-- 🔭 I’m currently working on an Android/iOS app to help connect university students. (coming soon)</br>
+- 🔭 Check out my porfolio at http://juaneslamilla.github.io to learn more about me and my projects!
 
 
 - 🌱 I’ve completed a <a href="https://online-learning.harvard.edu/series/professional-certificate-data-science" target="_blank">Professional Certification in Data Science</a> from <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Harvard_shield_wreath.svg/1200px-Harvard_shield_wreath.svg.png" width="13"/> <b>Harvard University</b>.
 
 
-- 🏫 I have worked as a section leader for <img src="https://web.stanford.edu/group/webdev/identity/public/img/block-s-2color.png" width="13"/> <b>Stanford University's</b> Code in Place program (teaching an introductory python programming course), as a private tutor for computer science, and as a Teaching Assistant at the University of Toronto. 
+- 🏫 I have worked as a section leader for <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Seal_of_Leland_Stanford_Junior_University.svg/1280px-Seal_of_Leland_Stanford_Junior_University.svg.png" width="13"/> <b>Stanford University's</b> Code in Place program (teaching an introductory python programming course), as a private tutor for computer science, and as a Teaching Assistant at the University of Toronto. 
 </p>
 
 <h3>Languages</h3>
