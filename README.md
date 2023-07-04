@@ -51,8 +51,6 @@
 
 <h3>Github Stats</h3>
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=JuanesLamilla&count_private=true&bg_color=60,CB218E,6617CB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=TRUE)
-
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=JuanesLamilla&theme=radical)
 
 <h3>Reach Me</h3>
