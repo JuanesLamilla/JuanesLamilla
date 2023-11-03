@@ -3,7 +3,7 @@
 
 <p align="center"> Welcome to my page! </p>
 
-<p> I'm Juanes, a data science student from <b>Bogotá, Colombia</b>, with a degree in GIS from the <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png" width="13"/> <b>University of Toronto</b> in <b>Toronto, Canada</b>, and soon to have a MSc. in Urban Spatial Analytics from the <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="15"/> <b>University College of London</b> in <b>London, UK</b>.</p>
+<p> I'm Juanes, originally from <b>Bogotá, Colombia</b>, with a degree in GIS from the <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png" width="13"/> <b>University of Toronto</b> in <b>Toronto, Canada</b>, and currently pursuing a MSc. in Urban Spatial Analytics from the <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="15"/> <b>University College of London</b> in <b>London, UK</b>.</p>
 
 <p>
   
