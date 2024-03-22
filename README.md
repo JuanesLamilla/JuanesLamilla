@@ -44,9 +44,9 @@
   <img alt="Latex" src="https://img.shields.io/badge/-Latex-050505?style=flat-square&logo=Latex&logoColor=white" />
 </p>
 
-<h3>Github Stats</h3>
+---
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=JuanesLamilla&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=juaneslamilla&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3>Reach Me</h3>
 <p>
