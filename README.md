@@ -7,14 +7,8 @@
 
 <p>
   
-  
 - 🔭 Check out my porfolio at http://juaneslamilla.github.io to learn more about me and my projects!
 
-
-- 🌱 I’ve completed a <a href="https://online-learning.harvard.edu/series/professional-certificate-data-science" target="_blank">Professional Certification in Data Science</a> from <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Harvard_shield_wreath.svg/1200px-Harvard_shield_wreath.svg.png" width="13"/> <b>Harvard University</b>.
-
-
-- 🏫 I have worked as a section leader for <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Seal_of_Leland_Stanford_Junior_University.svg/1280px-Seal_of_Leland_Stanford_Junior_University.svg.png" width="13"/> <b>Stanford University's</b> Code in Place program (teaching an introductory python programming course), as a private tutor for computer science, and as a Teaching Assistant at the University of Toronto. 
 </p>
 
 <h3>Languages</h3>
