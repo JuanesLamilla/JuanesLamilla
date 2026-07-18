@@ -3,13 +3,7 @@
 
 <p align="center"> Welcome to my page! </p>
 
-<p> I'm Juanes, originally from <b>Bogotá, Colombia</b>. I am currently pursuing a PhD in Transportation Engineering at the University of Alberta <img src="https://www.eduopinions.com/wp-content/uploads/2018/08/UniversityofAlberta-logo.jpg" width="15">. I also hold a degree in GIS from the <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png" width="13"/> <b>University of Toronto</b> in <b>Toronto, Canada</b>, and a MSc. in Urban Spatial Science from the <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="15"/> <b>University College of London</b> in <b>London, UK</b>.</p>
-
-<p>
-  
-- 🔭 Check out my porfolio at http://juaneslamilla.github.io to learn more about me and my projects!
-
-</p>
+<p> I'm Juanes, originally from <b>Bogotá, Colombia</b>. I am currently pursuing a PhD in Transportation Engineering at the University of Alberta <img src="https://www.eduopinions.com/wp-content/uploads/2018/08/UniversityofAlberta-logo.jpg" width="15">. I also hold a degree in GIS from the <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.clipartmax.com%2Fpng%2Fmiddle%2F150-1506031_university-logo-clipart-university-of-toronto-logo-vector.png&f=1&nofb=1&ipt=51bf400c3734b7e0059eadedc2c1e1ff94d7a9d4d88a4b3713607037b1c03f02" width="13"/> <b>University of Toronto</b> in <b>Toronto, Canada</b>, and a MSc. in Urban Spatial Science from the <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="15"/> <b>University College of London</b> in <b>London, UK</b>.</p>
 
 <h3>Languages</h3>
 <p>
@@ -40,7 +34,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=juaneslamilla&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=juaneslamilla&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3>Reach Me</h3>
 <p>
